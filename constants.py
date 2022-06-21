@@ -18,7 +18,7 @@ Tuples corresponding to RGB colors, it is ok ok ok ok ok
 
 class Disease:
 """
-Constants for disease , it is ok ok ok ok ok
+Constants for disease , it is not ok
 """
     INFECTED = 0
     RECOVERED = 1
